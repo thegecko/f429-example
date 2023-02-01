@@ -11,3 +11,5 @@
 ## VS Code for Web
 
 The instructions above should work as-is from https://vscode.dev when using a browser supporting WebUSB (e.g. chrome).
+
+Aside from https://github.com/microsoft/vscode/issues/171991 the above also works with github.dev by opening https://github.dev/thegecko/f429-example
