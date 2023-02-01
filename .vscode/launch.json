@@ -5,8 +5,8 @@
             "type": "embedded-debug",
             "request": "launch",
             "serialNumber": "${command:device-manager.getSerialNumber}",
-            "program": "${command:embedded-debug.getApplicationFile}",
             "cmsisPack": "${command:device-manager.getDevicePack}",
+            "program": "${workspaceFolder}/mbed-os-example-blinky.NUCLEO_F429ZI.elf",
             "debugFrom": "main",
             "pathMapping": {
                 "/src": "${workspaceFolder}"
