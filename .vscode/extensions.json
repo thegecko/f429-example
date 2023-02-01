@@ -1,0 +1,7 @@
+{
+    "recommendations": [
+        "arm.device-manager",
+        "arm.embedded-debug",
+        "cortex-debug.svd-viewer"
+    ]
+}
